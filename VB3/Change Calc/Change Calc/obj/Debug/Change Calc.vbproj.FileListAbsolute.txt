@@ -1,0 +1,12 @@
+C:\Users\6CoreGamer\Documents\CISC181Notes\Change Calc\Change Calc\bin\Debug\Change Calc.exe.config
+C:\Users\6CoreGamer\Documents\CISC181Notes\Change Calc\Change Calc\bin\Debug\Change Calc.exe
+C:\Users\6CoreGamer\Documents\CISC181Notes\Change Calc\Change Calc\bin\Debug\Change Calc.pdb
+C:\Users\6CoreGamer\Documents\CISC181Notes\Change Calc\Change Calc\bin\Debug\Change Calc.xml
+C:\Users\6CoreGamer\Documents\CISC181Notes\Change Calc\Change Calc\obj\Debug\Change Calc.vbprojAssemblyReference.cache
+C:\Users\6CoreGamer\Documents\CISC181Notes\Change Calc\Change Calc\obj\Debug\Sales_Price_Calculator.Form1.resources
+C:\Users\6CoreGamer\Documents\CISC181Notes\Change Calc\Change Calc\obj\Debug\Sales_Price_Calculator.Resources.resources
+C:\Users\6CoreGamer\Documents\CISC181Notes\Change Calc\Change Calc\obj\Debug\Change Calc.vbproj.GenerateResource.cache
+C:\Users\6CoreGamer\Documents\CISC181Notes\Change Calc\Change Calc\obj\Debug\Change Calc.vbproj.CoreCompileInputs.cache
+C:\Users\6CoreGamer\Documents\CISC181Notes\Change Calc\Change Calc\obj\Debug\Change Calc.exe
+C:\Users\6CoreGamer\Documents\CISC181Notes\Change Calc\Change Calc\obj\Debug\Change Calc.xml
+C:\Users\6CoreGamer\Documents\CISC181Notes\Change Calc\Change Calc\obj\Debug\Change Calc.pdb

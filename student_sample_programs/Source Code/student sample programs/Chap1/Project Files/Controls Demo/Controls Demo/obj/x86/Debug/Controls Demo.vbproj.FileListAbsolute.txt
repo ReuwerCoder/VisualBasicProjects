@@ -1,0 +1,42 @@
+C:\Users\Chris\AppData\Local\Temporary Projects\Controls Demo\bin\Debug\Controls Demo.exe
+C:\Users\Chris\AppData\Local\Temporary Projects\Controls Demo\bin\Debug\Controls Demo.pdb
+C:\Users\Chris\AppData\Local\Temporary Projects\Controls Demo\bin\Debug\Controls Demo.xml
+C:\Users\Chris\AppData\Local\Temporary Projects\Controls Demo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\AppData\Local\Temporary Projects\Controls Demo\obj\x86\Debug\Controls_Demo.Form1.resources
+C:\Users\Chris\AppData\Local\Temporary Projects\Controls Demo\obj\x86\Debug\Controls_Demo.Resources.resources
+C:\Users\Chris\AppData\Local\Temporary Projects\Controls Demo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\AppData\Local\Temporary Projects\Controls Demo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\AppData\Local\Temporary Projects\Controls Demo\obj\x86\Debug\Controls Demo.exe
+C:\Users\Chris\AppData\Local\Temporary Projects\Controls Demo\obj\x86\Debug\Controls Demo.xml
+C:\Users\Chris\AppData\Local\Temporary Projects\Controls Demo\obj\x86\Debug\Controls Demo.pdb
+C:\Users\Chris\documents\visual studio 10\Projects\Controls Demo\Controls Demo\obj\x86\Debug\Controls Demo.exe
+C:\Users\Chris\documents\visual studio 10\Projects\Controls Demo\Controls Demo\obj\x86\Debug\Controls Demo.xml
+C:\Users\Chris\documents\visual studio 10\Projects\Controls Demo\Controls Demo\obj\x86\Debug\Controls Demo.pdb
+C:\Users\Chris\documents\visual studio 10\Projects\Controls Demo\Controls Demo\bin\Debug\Controls Demo.exe
+C:\Users\Chris\documents\visual studio 10\Projects\Controls Demo\Controls Demo\bin\Debug\Controls Demo.pdb
+C:\Users\Chris\documents\visual studio 10\Projects\Controls Demo\Controls Demo\bin\Debug\Controls Demo.xml
+C:\Users\Chris\documents\visual studio 10\Projects\Controls Demo\Controls Demo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\documents\visual studio 10\Projects\Controls Demo\Controls Demo\obj\x86\Debug\Controls_Demo.Form1.resources
+C:\Users\Chris\documents\visual studio 10\Projects\Controls Demo\Controls Demo\obj\x86\Debug\Controls_Demo.Resources.resources
+C:\Users\Chris\documents\visual studio 10\Projects\Controls Demo\Controls Demo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\documents\visual studio 10\Projects\Controls Demo\Controls Demo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Student Sample Programs\Chap1\Project Files\Controls Demo\Controls Demo\obj\x86\Debug\Controls Demo.exe
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Student Sample Programs\Chap1\Project Files\Controls Demo\Controls Demo\bin\Debug\Controls Demo.exe
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Student Sample Programs\Chap1\Project Files\Controls Demo\Controls Demo\bin\Debug\Controls Demo.pdb
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Student Sample Programs\Chap1\Project Files\Controls Demo\Controls Demo\bin\Debug\Controls Demo.xml
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Student Sample Programs\Chap1\Project Files\Controls Demo\Controls Demo\obj\x86\Debug\Controls Demo.vbprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Student Sample Programs\Chap1\Project Files\Controls Demo\Controls Demo\obj\x86\Debug\Controls_Demo.Form1.resources
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Student Sample Programs\Chap1\Project Files\Controls Demo\Controls Demo\obj\x86\Debug\Controls_Demo.Resources.resources
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Student Sample Programs\Chap1\Project Files\Controls Demo\Controls Demo\obj\x86\Debug\Controls Demo.vbproj.GenerateResource.Cache
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Student Sample Programs\Chap1\Project Files\Controls Demo\Controls Demo\obj\x86\Debug\Controls Demo.xml
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Student Sample Programs\Chap1\Project Files\Controls Demo\Controls Demo\obj\x86\Debug\Controls Demo.pdb
+C:\Users\6CoreGamer\Documents\CISC181Notes\student_sample_programs\Source Code\student sample programs\Chap1\Project Files\Controls Demo\Controls Demo\bin\Debug\Controls Demo.exe
+C:\Users\6CoreGamer\Documents\CISC181Notes\student_sample_programs\Source Code\student sample programs\Chap1\Project Files\Controls Demo\Controls Demo\bin\Debug\Controls Demo.pdb
+C:\Users\6CoreGamer\Documents\CISC181Notes\student_sample_programs\Source Code\student sample programs\Chap1\Project Files\Controls Demo\Controls Demo\bin\Debug\Controls Demo.xml
+C:\Users\6CoreGamer\Documents\CISC181Notes\student_sample_programs\Source Code\student sample programs\Chap1\Project Files\Controls Demo\Controls Demo\obj\x86\Debug\Controls_Demo.Form1.resources
+C:\Users\6CoreGamer\Documents\CISC181Notes\student_sample_programs\Source Code\student sample programs\Chap1\Project Files\Controls Demo\Controls Demo\obj\x86\Debug\Controls_Demo.Resources.resources
+C:\Users\6CoreGamer\Documents\CISC181Notes\student_sample_programs\Source Code\student sample programs\Chap1\Project Files\Controls Demo\Controls Demo\obj\x86\Debug\Controls Demo.vbproj.GenerateResource.cache
+C:\Users\6CoreGamer\Documents\CISC181Notes\student_sample_programs\Source Code\student sample programs\Chap1\Project Files\Controls Demo\Controls Demo\obj\x86\Debug\Controls Demo.vbproj.CoreCompileInputs.cache
+C:\Users\6CoreGamer\Documents\CISC181Notes\student_sample_programs\Source Code\student sample programs\Chap1\Project Files\Controls Demo\Controls Demo\obj\x86\Debug\Controls Demo.exe
+C:\Users\6CoreGamer\Documents\CISC181Notes\student_sample_programs\Source Code\student sample programs\Chap1\Project Files\Controls Demo\Controls Demo\obj\x86\Debug\Controls Demo.xml
+C:\Users\6CoreGamer\Documents\CISC181Notes\student_sample_programs\Source Code\student sample programs\Chap1\Project Files\Controls Demo\Controls Demo\obj\x86\Debug\Controls Demo.pdb

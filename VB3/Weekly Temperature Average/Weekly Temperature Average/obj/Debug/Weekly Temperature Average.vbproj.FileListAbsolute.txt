@@ -1,0 +1,12 @@
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\Weekly Temperature Average\bin\Debug\Weekly Temperature Average.exe.config
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\Weekly Temperature Average\bin\Debug\Weekly Temperature Average.exe
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\Weekly Temperature Average\bin\Debug\Weekly Temperature Average.pdb
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\Weekly Temperature Average\bin\Debug\Weekly Temperature Average.xml
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\Weekly Temperature Average\obj\Debug\Weekly Temperature Average.vbprojAssemblyReference.cache
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\Weekly Temperature Average\obj\Debug\Weekly_Temperature_Average.Form1.resources
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\Weekly Temperature Average\obj\Debug\Weekly_Temperature_Average.Resources.resources
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\Weekly Temperature Average\obj\Debug\Weekly Temperature Average.vbproj.GenerateResource.cache
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\Weekly Temperature Average\obj\Debug\Weekly Temperature Average.vbproj.CoreCompileInputs.cache
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\Weekly Temperature Average\obj\Debug\Weekly Temperature Average.exe
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\Weekly Temperature Average\obj\Debug\Weekly Temperature Average.xml
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\Weekly Temperature Average\obj\Debug\Weekly Temperature Average.pdb

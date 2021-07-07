@@ -1,0 +1,14 @@
+C:\Users\Kip\AppData\Local\Temporary Projects\ListBox SelectedValue\bin\Debug\ListBox SelectedValue.exe.config
+D:\sovb15\student sample programs\Chap10\ListBox SelectedValue\ListBox SelectedValue\bin\Debug\ListBox SelectedValue.exe.config
+D:\sovb15\student sample programs\Chap10\ListBox SelectedValue\ListBox SelectedValue\bin\Debug\Karate.mdf
+D:\sovb15\student sample programs\Chap10\ListBox SelectedValue\ListBox SelectedValue\bin\Debug\Karate_log.ldf
+D:\sovb15\student sample programs\Chap10\ListBox SelectedValue\ListBox SelectedValue\bin\Debug\ListBox SelectedValue.exe
+D:\sovb15\student sample programs\Chap10\ListBox SelectedValue\ListBox SelectedValue\bin\Debug\ListBox SelectedValue.pdb
+D:\sovb15\student sample programs\Chap10\ListBox SelectedValue\ListBox SelectedValue\bin\Debug\ListBox SelectedValue.xml
+D:\sovb15\student sample programs\Chap10\ListBox SelectedValue\ListBox SelectedValue\obj\Debug\ListBox SelectedValue.vbprojResolveAssemblyReference.cache
+D:\sovb15\student sample programs\Chap10\ListBox SelectedValue\ListBox SelectedValue\obj\Debug\ListBox_SelectedValue.Form1.resources
+D:\sovb15\student sample programs\Chap10\ListBox SelectedValue\ListBox SelectedValue\obj\Debug\ListBox_SelectedValue.Resources.resources
+D:\sovb15\student sample programs\Chap10\ListBox SelectedValue\ListBox SelectedValue\obj\Debug\ListBox SelectedValue.vbproj.GenerateResource.Cache
+D:\sovb15\student sample programs\Chap10\ListBox SelectedValue\ListBox SelectedValue\obj\Debug\ListBox SelectedValue.exe
+D:\sovb15\student sample programs\Chap10\ListBox SelectedValue\ListBox SelectedValue\obj\Debug\ListBox SelectedValue.xml
+D:\sovb15\student sample programs\Chap10\ListBox SelectedValue\ListBox SelectedValue\obj\Debug\ListBox SelectedValue.pdb

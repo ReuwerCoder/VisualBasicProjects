@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="6126F71A-B404-4C54-8D44-92A460F11DC9" ModuleId="PoliceDispatcherClient" />
+  <Module PersistentId="F50C7A69-0A6E-4580-9AAA-07B18F1FDB3C" ModuleId="ClassLibrary1" />
+  <Module PersistentId="CD3B6963-741E-4744-94B4-D21EC6FD32FF" ModuleId="SecureCommunicationComponent" />
+</Modules>

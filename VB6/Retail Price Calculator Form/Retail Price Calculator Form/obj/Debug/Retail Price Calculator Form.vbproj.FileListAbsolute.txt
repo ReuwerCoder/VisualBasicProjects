@@ -1,0 +1,24 @@
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\Retail Price Calculator Form\obj\Debug\Retail Price Calculator Form.vbprojAssemblyReference.cache
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\Retail Price Calculator Form\obj\Debug\Retail_Price_Calculator_Form.Form1.resources
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\Retail Price Calculator Form\obj\Debug\Retail_Price_Calculator_Form.Resources.resources
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\Retail Price Calculator Form\obj\Debug\Retail Price Calculator Form.vbproj.GenerateResource.cache
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\Retail Price Calculator Form\obj\Debug\Retail Price Calculator Form.vbproj.CoreCompileInputs.cache
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\Retail Price Calculator Form\bin\Debug\Retail Price Calculator Form.exe.config
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\Retail Price Calculator Form\bin\Debug\Retail Price Calculator Form.exe
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\Retail Price Calculator Form\bin\Debug\Retail Price Calculator Form.pdb
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\Retail Price Calculator Form\bin\Debug\Retail Price Calculator Form.xml
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\Retail Price Calculator Form\obj\Debug\Retail Price Calculator Form.exe
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\Retail Price Calculator Form\obj\Debug\Retail Price Calculator Form.xml
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\Retail Price Calculator Form\obj\Debug\Retail Price Calculator Form.pdb
+K:\Documents\CISC181Notes\VB6\Retail Price Calculator Form\Retail Price Calculator Form\obj\Debug\Retail Price Calculator Form.vbprojAssemblyReference.cache
+K:\Documents\CISC181Notes\VB6\Retail Price Calculator Form\Retail Price Calculator Form\obj\Debug\Retail_Price_Calculator_Form.Form1.resources
+K:\Documents\CISC181Notes\VB6\Retail Price Calculator Form\Retail Price Calculator Form\obj\Debug\Retail_Price_Calculator_Form.Resources.resources
+K:\Documents\CISC181Notes\VB6\Retail Price Calculator Form\Retail Price Calculator Form\obj\Debug\Retail Price Calculator Form.vbproj.GenerateResource.cache
+K:\Documents\CISC181Notes\VB6\Retail Price Calculator Form\Retail Price Calculator Form\obj\Debug\Retail Price Calculator Form.vbproj.CoreCompileInputs.cache
+K:\Documents\CISC181Notes\VB6\Retail Price Calculator Form\Retail Price Calculator Form\obj\Debug\Retail Price Calculator Form.exe
+K:\Documents\CISC181Notes\VB6\Retail Price Calculator Form\Retail Price Calculator Form\obj\Debug\Retail Price Calculator Form.xml
+K:\Documents\CISC181Notes\VB6\Retail Price Calculator Form\Retail Price Calculator Form\obj\Debug\Retail Price Calculator Form.pdb
+K:\Documents\CISC181Notes\VB6\Retail Price Calculator Form\Retail Price Calculator Form\bin\Debug\Retail Price Calculator Form.exe.config
+K:\Documents\CISC181Notes\VB6\Retail Price Calculator Form\Retail Price Calculator Form\bin\Debug\Retail Price Calculator Form.exe
+K:\Documents\CISC181Notes\VB6\Retail Price Calculator Form\Retail Price Calculator Form\bin\Debug\Retail Price Calculator Form.pdb
+K:\Documents\CISC181Notes\VB6\Retail Price Calculator Form\Retail Price Calculator Form\bin\Debug\Retail Price Calculator Form.xml

@@ -1,0 +1,10 @@
+D:\sovb15\student sample programs\Chap12\Student Collection\Student Collection\bin\Debug\Student Collection.exe
+D:\sovb15\student sample programs\Chap12\Student Collection\Student Collection\bin\Debug\Student Collection.pdb
+D:\sovb15\student sample programs\Chap12\Student Collection\Student Collection\bin\Debug\Student Collection.xml
+D:\sovb15\student sample programs\Chap12\Student Collection\Student Collection\obj\x86\Debug\Student_Collection.AddForm.resources
+D:\sovb15\student sample programs\Chap12\Student Collection\Student Collection\obj\x86\Debug\Student_Collection.MainForm.resources
+D:\sovb15\student sample programs\Chap12\Student Collection\Student Collection\obj\x86\Debug\Student_Collection.Resources.resources
+D:\sovb15\student sample programs\Chap12\Student Collection\Student Collection\obj\x86\Debug\Student Collection.vbproj.GenerateResource.Cache
+D:\sovb15\student sample programs\Chap12\Student Collection\Student Collection\obj\x86\Debug\Student Collection.exe
+D:\sovb15\student sample programs\Chap12\Student Collection\Student Collection\obj\x86\Debug\Student Collection.xml
+D:\sovb15\student sample programs\Chap12\Student Collection\Student Collection\obj\x86\Debug\Student Collection.pdb

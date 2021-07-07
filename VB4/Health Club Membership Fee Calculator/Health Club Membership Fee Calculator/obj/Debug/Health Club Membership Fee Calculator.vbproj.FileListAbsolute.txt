@@ -1,0 +1,12 @@
+C:\Users\6CoreGamer\Documents\CISC181Notes\visual-basic-apps-master\apps\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\bin\Debug\Health Club Membership Fee Calculator.exe.config
+C:\Users\6CoreGamer\Documents\CISC181Notes\visual-basic-apps-master\apps\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\bin\Debug\Health Club Membership Fee Calculator.exe
+C:\Users\6CoreGamer\Documents\CISC181Notes\visual-basic-apps-master\apps\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\bin\Debug\Health Club Membership Fee Calculator.pdb
+C:\Users\6CoreGamer\Documents\CISC181Notes\visual-basic-apps-master\apps\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\bin\Debug\Health Club Membership Fee Calculator.xml
+C:\Users\6CoreGamer\Documents\CISC181Notes\visual-basic-apps-master\apps\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\Debug\Health Club Membership Fee Calculator.vbprojAssemblyReference.cache
+C:\Users\6CoreGamer\Documents\CISC181Notes\visual-basic-apps-master\apps\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\Debug\Health_Club_Membership_Fee_Calculator.Form1.resources
+C:\Users\6CoreGamer\Documents\CISC181Notes\visual-basic-apps-master\apps\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\Debug\Health_Club_Membership_Fee_Calculator.Resources.resources
+C:\Users\6CoreGamer\Documents\CISC181Notes\visual-basic-apps-master\apps\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\Debug\Health Club Membership Fee Calculator.vbproj.GenerateResource.cache
+C:\Users\6CoreGamer\Documents\CISC181Notes\visual-basic-apps-master\apps\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\Debug\Health Club Membership Fee Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\6CoreGamer\Documents\CISC181Notes\visual-basic-apps-master\apps\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\Debug\Health Club Membership Fee Calculator.exe
+C:\Users\6CoreGamer\Documents\CISC181Notes\visual-basic-apps-master\apps\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\Debug\Health Club Membership Fee Calculator.xml
+C:\Users\6CoreGamer\Documents\CISC181Notes\visual-basic-apps-master\apps\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\Debug\Health Club Membership Fee Calculator.pdb

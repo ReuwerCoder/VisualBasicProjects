@@ -1,0 +1,12 @@
+C:\Users\6CoreGamer\Documents\CISC181Notes\Language Translator\Language Translator\obj\Debug\Language Translator.vbprojAssemblyReference.cache
+C:\Users\6CoreGamer\Documents\CISC181Notes\Language Translator\Language Translator\obj\Debug\Language_Translator.Form1.resources
+C:\Users\6CoreGamer\Documents\CISC181Notes\Language Translator\Language Translator\obj\Debug\Language_Translator.Resources.resources
+C:\Users\6CoreGamer\Documents\CISC181Notes\Language Translator\Language Translator\obj\Debug\Language Translator.vbproj.GenerateResource.cache
+C:\Users\6CoreGamer\Documents\CISC181Notes\Language Translator\Language Translator\obj\Debug\Language Translator.vbproj.CoreCompileInputs.cache
+C:\Users\6CoreGamer\Documents\CISC181Notes\Language Translator\Language Translator\bin\Debug\Language Translator.exe.config
+C:\Users\6CoreGamer\Documents\CISC181Notes\Language Translator\Language Translator\bin\Debug\Language Translator.exe
+C:\Users\6CoreGamer\Documents\CISC181Notes\Language Translator\Language Translator\bin\Debug\Language Translator.pdb
+C:\Users\6CoreGamer\Documents\CISC181Notes\Language Translator\Language Translator\bin\Debug\Language Translator.xml
+C:\Users\6CoreGamer\Documents\CISC181Notes\Language Translator\Language Translator\obj\Debug\Language Translator.exe
+C:\Users\6CoreGamer\Documents\CISC181Notes\Language Translator\Language Translator\obj\Debug\Language Translator.xml
+C:\Users\6CoreGamer\Documents\CISC181Notes\Language Translator\Language Translator\obj\Debug\Language Translator.pdb

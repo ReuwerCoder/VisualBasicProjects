@@ -1,0 +1,12 @@
+C:\Users\6CoreGamer\Documents\CISC181Notes\Sale Price Calculator\Sale Price Calculator\bin\Debug\Sale Price Calculator.exe.config
+C:\Users\6CoreGamer\Documents\CISC181Notes\Sale Price Calculator\Sale Price Calculator\bin\Debug\Sale Price Calculator.exe
+C:\Users\6CoreGamer\Documents\CISC181Notes\Sale Price Calculator\Sale Price Calculator\bin\Debug\Sale Price Calculator.pdb
+C:\Users\6CoreGamer\Documents\CISC181Notes\Sale Price Calculator\Sale Price Calculator\bin\Debug\Sale Price Calculator.xml
+C:\Users\6CoreGamer\Documents\CISC181Notes\Sale Price Calculator\Sale Price Calculator\obj\Debug\Sale Price Calculator.vbprojAssemblyReference.cache
+C:\Users\6CoreGamer\Documents\CISC181Notes\Sale Price Calculator\Sale Price Calculator\obj\Debug\Sale_Price_Calculator.Form1.resources
+C:\Users\6CoreGamer\Documents\CISC181Notes\Sale Price Calculator\Sale Price Calculator\obj\Debug\Sale_Price_Calculator.Resources.resources
+C:\Users\6CoreGamer\Documents\CISC181Notes\Sale Price Calculator\Sale Price Calculator\obj\Debug\Sale Price Calculator.vbproj.GenerateResource.cache
+C:\Users\6CoreGamer\Documents\CISC181Notes\Sale Price Calculator\Sale Price Calculator\obj\Debug\Sale Price Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\6CoreGamer\Documents\CISC181Notes\Sale Price Calculator\Sale Price Calculator\obj\Debug\Sale Price Calculator.exe
+C:\Users\6CoreGamer\Documents\CISC181Notes\Sale Price Calculator\Sale Price Calculator\obj\Debug\Sale Price Calculator.xml
+C:\Users\6CoreGamer\Documents\CISC181Notes\Sale Price Calculator\Sale Price Calculator\obj\Debug\Sale Price Calculator.pdb

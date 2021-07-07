@@ -1,0 +1,12 @@
+C:\Users\6CoreGamer\Documents\CISC181Notes\Joke and Punch Line(1)\Joke and Punch Line(1)\bin\Debug\Joke and Punch Line(1).exe.config
+C:\Users\6CoreGamer\Documents\CISC181Notes\Joke and Punch Line(1)\Joke and Punch Line(1)\bin\Debug\Joke and Punch Line(1).exe
+C:\Users\6CoreGamer\Documents\CISC181Notes\Joke and Punch Line(1)\Joke and Punch Line(1)\bin\Debug\Joke and Punch Line(1).pdb
+C:\Users\6CoreGamer\Documents\CISC181Notes\Joke and Punch Line(1)\Joke and Punch Line(1)\bin\Debug\Joke and Punch Line(1).xml
+C:\Users\6CoreGamer\Documents\CISC181Notes\Joke and Punch Line(1)\Joke and Punch Line(1)\obj\Debug\Joke and Punch Line(1).vbprojAssemblyReference.cache
+C:\Users\6CoreGamer\Documents\CISC181Notes\Joke and Punch Line(1)\Joke and Punch Line(1)\obj\Debug\Joke_and_Punch_Line_1_.Form1.resources
+C:\Users\6CoreGamer\Documents\CISC181Notes\Joke and Punch Line(1)\Joke and Punch Line(1)\obj\Debug\Joke_and_Punch_Line_1_.Resources.resources
+C:\Users\6CoreGamer\Documents\CISC181Notes\Joke and Punch Line(1)\Joke and Punch Line(1)\obj\Debug\Joke and Punch Line(1).vbproj.GenerateResource.cache
+C:\Users\6CoreGamer\Documents\CISC181Notes\Joke and Punch Line(1)\Joke and Punch Line(1)\obj\Debug\Joke and Punch Line(1).vbproj.CoreCompileInputs.cache
+C:\Users\6CoreGamer\Documents\CISC181Notes\Joke and Punch Line(1)\Joke and Punch Line(1)\obj\Debug\Joke and Punch Line(1).exe
+C:\Users\6CoreGamer\Documents\CISC181Notes\Joke and Punch Line(1)\Joke and Punch Line(1)\obj\Debug\Joke and Punch Line(1).xml
+C:\Users\6CoreGamer\Documents\CISC181Notes\Joke and Punch Line(1)\Joke and Punch Line(1)\obj\Debug\Joke and Punch Line(1).pdb

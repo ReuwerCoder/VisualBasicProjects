@@ -1,0 +1,12 @@
+C:\Users\6CoreGamer\Documents\CISC181Notes\visual-basic-apps-master\apps\Room Charge Calculator\Room Charge Calculator\bin\Debug\Room Charge Calculator.exe.config
+C:\Users\6CoreGamer\Documents\CISC181Notes\visual-basic-apps-master\apps\Room Charge Calculator\Room Charge Calculator\bin\Debug\Room Charge Calculator.exe
+C:\Users\6CoreGamer\Documents\CISC181Notes\visual-basic-apps-master\apps\Room Charge Calculator\Room Charge Calculator\bin\Debug\Room Charge Calculator.pdb
+C:\Users\6CoreGamer\Documents\CISC181Notes\visual-basic-apps-master\apps\Room Charge Calculator\Room Charge Calculator\bin\Debug\Room Charge Calculator.xml
+C:\Users\6CoreGamer\Documents\CISC181Notes\visual-basic-apps-master\apps\Room Charge Calculator\Room Charge Calculator\obj\Debug\Room Charge Calculator.vbprojAssemblyReference.cache
+C:\Users\6CoreGamer\Documents\CISC181Notes\visual-basic-apps-master\apps\Room Charge Calculator\Room Charge Calculator\obj\Debug\Room_Charge_Calculator.Form1.resources
+C:\Users\6CoreGamer\Documents\CISC181Notes\visual-basic-apps-master\apps\Room Charge Calculator\Room Charge Calculator\obj\Debug\Room_Charge_Calculator.Resources.resources
+C:\Users\6CoreGamer\Documents\CISC181Notes\visual-basic-apps-master\apps\Room Charge Calculator\Room Charge Calculator\obj\Debug\Room Charge Calculator.vbproj.GenerateResource.cache
+C:\Users\6CoreGamer\Documents\CISC181Notes\visual-basic-apps-master\apps\Room Charge Calculator\Room Charge Calculator\obj\Debug\Room Charge Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\6CoreGamer\Documents\CISC181Notes\visual-basic-apps-master\apps\Room Charge Calculator\Room Charge Calculator\obj\Debug\Room Charge Calculator.exe
+C:\Users\6CoreGamer\Documents\CISC181Notes\visual-basic-apps-master\apps\Room Charge Calculator\Room Charge Calculator\obj\Debug\Room Charge Calculator.xml
+C:\Users\6CoreGamer\Documents\CISC181Notes\visual-basic-apps-master\apps\Room Charge Calculator\Room Charge Calculator\obj\Debug\Room Charge Calculator.pdb

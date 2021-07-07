@@ -1,0 +1,11 @@
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\Form Load Demo\obj\Debug\Form_Load_Demo.Form1.resources
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\Form Load Demo\obj\Debug\Form_Load_Demo.Resources.resources
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\Form Load Demo\obj\Debug\Form Load Demo.vbproj.GenerateResource.cache
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\Form Load Demo\obj\Debug\Form Load Demo.vbproj.CoreCompileInputs.cache
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\Form Load Demo\bin\Debug\Form Load Demo.exe.config
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\Form Load Demo\bin\Debug\Form Load Demo.exe
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\Form Load Demo\bin\Debug\Form Load Demo.pdb
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\Form Load Demo\bin\Debug\Form Load Demo.xml
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\Form Load Demo\obj\Debug\Form Load Demo.exe
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\Form Load Demo\obj\Debug\Form Load Demo.xml
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\Form Load Demo\obj\Debug\Form Load Demo.pdb

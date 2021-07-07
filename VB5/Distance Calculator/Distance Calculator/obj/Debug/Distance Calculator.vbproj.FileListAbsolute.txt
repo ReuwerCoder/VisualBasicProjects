@@ -1,0 +1,11 @@
+K:\CISC181Notes\VB5\Distance Calculator\Distance Calculator\bin\Debug\Distance Calculator.exe.config
+K:\CISC181Notes\VB5\Distance Calculator\Distance Calculator\bin\Debug\Distance Calculator.exe
+K:\CISC181Notes\VB5\Distance Calculator\Distance Calculator\bin\Debug\Distance Calculator.pdb
+K:\CISC181Notes\VB5\Distance Calculator\Distance Calculator\bin\Debug\Distance Calculator.xml
+K:\CISC181Notes\VB5\Distance Calculator\Distance Calculator\obj\Debug\WindowsApp1.Form1.resources
+K:\CISC181Notes\VB5\Distance Calculator\Distance Calculator\obj\Debug\WindowsApp1.Resources.resources
+K:\CISC181Notes\VB5\Distance Calculator\Distance Calculator\obj\Debug\Distance Calculator.vbproj.GenerateResource.cache
+K:\CISC181Notes\VB5\Distance Calculator\Distance Calculator\obj\Debug\Distance Calculator.vbproj.CoreCompileInputs.cache
+K:\CISC181Notes\VB5\Distance Calculator\Distance Calculator\obj\Debug\Distance Calculator.exe
+K:\CISC181Notes\VB5\Distance Calculator\Distance Calculator\obj\Debug\Distance Calculator.xml
+K:\CISC181Notes\VB5\Distance Calculator\Distance Calculator\obj\Debug\Distance Calculator.pdb

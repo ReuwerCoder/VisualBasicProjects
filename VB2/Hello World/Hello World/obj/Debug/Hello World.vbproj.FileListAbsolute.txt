@@ -1,0 +1,24 @@
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\Hello World\bin\Debug\Hello World.exe.config
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\Hello World\bin\Debug\Hello World.exe
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\Hello World\bin\Debug\Hello World.pdb
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\Hello World\bin\Debug\Hello World.xml
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\Hello World\obj\Debug\Hello World.vbprojAssemblyReference.cache
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\Hello World\obj\Debug\Hello_World.Form1.resources
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\Hello World\obj\Debug\Hello_World.Resources.resources
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\Hello World\obj\Debug\Hello World.vbproj.GenerateResource.cache
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\Hello World\obj\Debug\Hello World.vbproj.CoreCompileInputs.cache
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\Hello World\obj\Debug\Hello World.exe
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\Hello World\obj\Debug\Hello World.xml
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\Hello World\obj\Debug\Hello World.pdb
+C:\Users\6CoreGamer\Documents\CISC181Notes\Hello World\Hello World\bin\Debug\Hello World.exe.config
+C:\Users\6CoreGamer\Documents\CISC181Notes\Hello World\Hello World\bin\Debug\Hello World.exe
+C:\Users\6CoreGamer\Documents\CISC181Notes\Hello World\Hello World\bin\Debug\Hello World.pdb
+C:\Users\6CoreGamer\Documents\CISC181Notes\Hello World\Hello World\bin\Debug\Hello World.xml
+C:\Users\6CoreGamer\Documents\CISC181Notes\Hello World\Hello World\obj\Debug\Hello World.vbprojAssemblyReference.cache
+C:\Users\6CoreGamer\Documents\CISC181Notes\Hello World\Hello World\obj\Debug\Hello_World.Form1.resources
+C:\Users\6CoreGamer\Documents\CISC181Notes\Hello World\Hello World\obj\Debug\Hello_World.Resources.resources
+C:\Users\6CoreGamer\Documents\CISC181Notes\Hello World\Hello World\obj\Debug\Hello World.vbproj.GenerateResource.cache
+C:\Users\6CoreGamer\Documents\CISC181Notes\Hello World\Hello World\obj\Debug\Hello World.vbproj.CoreCompileInputs.cache
+C:\Users\6CoreGamer\Documents\CISC181Notes\Hello World\Hello World\obj\Debug\Hello World.exe
+C:\Users\6CoreGamer\Documents\CISC181Notes\Hello World\Hello World\obj\Debug\Hello World.xml
+C:\Users\6CoreGamer\Documents\CISC181Notes\Hello World\Hello World\obj\Debug\Hello World.pdb

@@ -1,0 +1,11 @@
+D:\sovb15\student sample programs\Chap12\Computer Science Student\Computer Science Student\bin\Debug\Computer Science Student.exe
+D:\sovb15\student sample programs\Chap12\Computer Science Student\Computer Science Student\bin\Debug\Computer Science Student.pdb
+D:\sovb15\student sample programs\Chap12\Computer Science Student\Computer Science Student\bin\Debug\Computer Science Student.xml
+D:\sovb15\student sample programs\Chap12\Computer Science Student\Computer Science Student\obj\x86\Debug\Computer Science Student.vbprojResolveAssemblyReference.cache
+D:\sovb15\student sample programs\Chap12\Computer Science Student\Computer Science Student\obj\x86\Debug\Computer_Science_Student.DisplayForm.resources
+D:\sovb15\student sample programs\Chap12\Computer Science Student\Computer Science Student\obj\x86\Debug\Computer_Science_Student.MainForm.resources
+D:\sovb15\student sample programs\Chap12\Computer Science Student\Computer Science Student\obj\x86\Debug\Computer_Science_Student.Resources.resources
+D:\sovb15\student sample programs\Chap12\Computer Science Student\Computer Science Student\obj\x86\Debug\Computer Science Student.vbproj.GenerateResource.Cache
+D:\sovb15\student sample programs\Chap12\Computer Science Student\Computer Science Student\obj\x86\Debug\Computer Science Student.exe
+D:\sovb15\student sample programs\Chap12\Computer Science Student\Computer Science Student\obj\x86\Debug\Computer Science Student.xml
+D:\sovb15\student sample programs\Chap12\Computer Science Student\Computer Science Student\obj\x86\Debug\Computer Science Student.pdb

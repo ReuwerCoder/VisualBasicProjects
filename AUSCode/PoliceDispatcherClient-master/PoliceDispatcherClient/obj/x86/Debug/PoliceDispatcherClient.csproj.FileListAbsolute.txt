@@ -1,0 +1,13 @@
+E:\AUSCode\PoliceDispatcherClient-master\PoliceDispatcherClient\bin\Debug\PoliceDispatcherClient.exe.config
+E:\AUSCode\PoliceDispatcherClient-master\PoliceDispatcherClient\bin\Debug\PoliceDispatcherClient.exe
+E:\AUSCode\PoliceDispatcherClient-master\PoliceDispatcherClient\bin\Debug\PoliceDispatcherClient.pdb
+E:\AUSCode\PoliceDispatcherClient-master\PoliceDispatcherClient\bin\Debug\SecureCommunicationComponent.dll
+E:\AUSCode\PoliceDispatcherClient-master\PoliceDispatcherClient\bin\Debug\SecureCommunicationComponent.pdb
+E:\AUSCode\PoliceDispatcherClient-master\PoliceDispatcherClient\obj\x86\Debug\PoliceDispatcherClient.csprojAssemblyReference.cache
+E:\AUSCode\PoliceDispatcherClient-master\PoliceDispatcherClient\obj\x86\Debug\PoliceDispatcherClient.DispatcherForm.resources
+E:\AUSCode\PoliceDispatcherClient-master\PoliceDispatcherClient\obj\x86\Debug\PoliceDispatcherClient.Properties.Resources.resources
+E:\AUSCode\PoliceDispatcherClient-master\PoliceDispatcherClient\obj\x86\Debug\PoliceDispatcherClient.csproj.GenerateResource.cache
+E:\AUSCode\PoliceDispatcherClient-master\PoliceDispatcherClient\obj\x86\Debug\PoliceDispatcherClient.csproj.CoreCompileInputs.cache
+E:\AUSCode\PoliceDispatcherClient-master\PoliceDispatcherClient\obj\x86\Debug\PoliceDispatcherClient.csproj.CopyComplete
+E:\AUSCode\PoliceDispatcherClient-master\PoliceDispatcherClient\obj\x86\Debug\PoliceDispatcherClient.exe
+E:\AUSCode\PoliceDispatcherClient-master\PoliceDispatcherClient\obj\x86\Debug\PoliceDispatcherClient.pdb

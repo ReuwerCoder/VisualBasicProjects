@@ -1,0 +1,12 @@
+K:\CISC181Notes\visual-basic-apps-master\apps\Vehicle Loan Calculator\Vehicle Loan Calculator\bin\Debug\Vehicle Loan Calculator.exe.config
+K:\CISC181Notes\visual-basic-apps-master\apps\Vehicle Loan Calculator\Vehicle Loan Calculator\bin\Debug\Vehicle Loan Calculator.exe
+K:\CISC181Notes\visual-basic-apps-master\apps\Vehicle Loan Calculator\Vehicle Loan Calculator\bin\Debug\Vehicle Loan Calculator.pdb
+K:\CISC181Notes\visual-basic-apps-master\apps\Vehicle Loan Calculator\Vehicle Loan Calculator\bin\Debug\Vehicle Loan Calculator.xml
+K:\CISC181Notes\visual-basic-apps-master\apps\Vehicle Loan Calculator\Vehicle Loan Calculator\obj\Debug\Vehicle Loan Calculator.vbprojAssemblyReference.cache
+K:\CISC181Notes\visual-basic-apps-master\apps\Vehicle Loan Calculator\Vehicle Loan Calculator\obj\Debug\Vehicle_Loan_Calculator.Form1.resources
+K:\CISC181Notes\visual-basic-apps-master\apps\Vehicle Loan Calculator\Vehicle Loan Calculator\obj\Debug\Vehicle_Loan_Calculator.Resources.resources
+K:\CISC181Notes\visual-basic-apps-master\apps\Vehicle Loan Calculator\Vehicle Loan Calculator\obj\Debug\Vehicle Loan Calculator.vbproj.GenerateResource.cache
+K:\CISC181Notes\visual-basic-apps-master\apps\Vehicle Loan Calculator\Vehicle Loan Calculator\obj\Debug\Vehicle Loan Calculator.vbproj.CoreCompileInputs.cache
+K:\CISC181Notes\visual-basic-apps-master\apps\Vehicle Loan Calculator\Vehicle Loan Calculator\obj\Debug\Vehicle Loan Calculator.exe
+K:\CISC181Notes\visual-basic-apps-master\apps\Vehicle Loan Calculator\Vehicle Loan Calculator\obj\Debug\Vehicle Loan Calculator.xml
+K:\CISC181Notes\visual-basic-apps-master\apps\Vehicle Loan Calculator\Vehicle Loan Calculator\obj\Debug\Vehicle Loan Calculator.pdb

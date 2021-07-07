@@ -1,0 +1,6 @@
+E:\AUSCode\PoliceDispatcherClient-master\SecureCommunicationComponent\bin\Debug\SecureCommunicationComponent.dll
+E:\AUSCode\PoliceDispatcherClient-master\SecureCommunicationComponent\bin\Debug\SecureCommunicationComponent.pdb
+E:\AUSCode\PoliceDispatcherClient-master\SecureCommunicationComponent\obj\Debug\SecureCommunicationComponent.csprojAssemblyReference.cache
+E:\AUSCode\PoliceDispatcherClient-master\SecureCommunicationComponent\obj\Debug\SecureCommunicationComponent.csproj.CoreCompileInputs.cache
+E:\AUSCode\PoliceDispatcherClient-master\SecureCommunicationComponent\obj\Debug\SecureCommunicationComponent.dll
+E:\AUSCode\PoliceDispatcherClient-master\SecureCommunicationComponent\obj\Debug\SecureCommunicationComponent.pdb

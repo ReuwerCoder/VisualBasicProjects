@@ -1,0 +1,1 @@
+gacutil /i SecureCommunicationComponent\bin\Debug\SecureCommunicationComponent.dll /r FILEPATH PoliceDispatcherClient\bin\Debug\PoliceDispatcherClient.exe "DispatcherClient"

@@ -1,0 +1,11 @@
+C:\Users\6CoreGamer\Documents\CISC181Notes\Tip Calculator\Tip Calculator\bin\Debug\Tip Calculator.exe.config
+C:\Users\6CoreGamer\Documents\CISC181Notes\Tip Calculator\Tip Calculator\bin\Debug\Tip Calculator.exe
+C:\Users\6CoreGamer\Documents\CISC181Notes\Tip Calculator\Tip Calculator\bin\Debug\Tip Calculator.pdb
+C:\Users\6CoreGamer\Documents\CISC181Notes\Tip Calculator\Tip Calculator\bin\Debug\Tip Calculator.xml
+C:\Users\6CoreGamer\Documents\CISC181Notes\Tip Calculator\Tip Calculator\obj\Debug\Tip_Calculator.Form1.resources
+C:\Users\6CoreGamer\Documents\CISC181Notes\Tip Calculator\Tip Calculator\obj\Debug\Tip_Calculator.Resources.resources
+C:\Users\6CoreGamer\Documents\CISC181Notes\Tip Calculator\Tip Calculator\obj\Debug\Tip Calculator.vbproj.GenerateResource.cache
+C:\Users\6CoreGamer\Documents\CISC181Notes\Tip Calculator\Tip Calculator\obj\Debug\Tip Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\6CoreGamer\Documents\CISC181Notes\Tip Calculator\Tip Calculator\obj\Debug\Tip Calculator.exe
+C:\Users\6CoreGamer\Documents\CISC181Notes\Tip Calculator\Tip Calculator\obj\Debug\Tip Calculator.xml
+C:\Users\6CoreGamer\Documents\CISC181Notes\Tip Calculator\Tip Calculator\obj\Debug\Tip Calculator.pdb

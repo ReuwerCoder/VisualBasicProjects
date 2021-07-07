@@ -1,0 +1,12 @@
+K:\Documents\CISC181Notes\visual-basic-apps-master\apps\Bagel House\Bagel House\bin\Debug\Bagel House.exe.config
+K:\Documents\CISC181Notes\visual-basic-apps-master\apps\Bagel House\Bagel House\bin\Debug\Bagel House.exe
+K:\Documents\CISC181Notes\visual-basic-apps-master\apps\Bagel House\Bagel House\bin\Debug\Bagel House.pdb
+K:\Documents\CISC181Notes\visual-basic-apps-master\apps\Bagel House\Bagel House\bin\Debug\Bagel House.xml
+K:\Documents\CISC181Notes\visual-basic-apps-master\apps\Bagel House\Bagel House\obj\Debug\Bagel House.vbprojAssemblyReference.cache
+K:\Documents\CISC181Notes\visual-basic-apps-master\apps\Bagel House\Bagel House\obj\Debug\Bagel_House.Form1.resources
+K:\Documents\CISC181Notes\visual-basic-apps-master\apps\Bagel House\Bagel House\obj\Debug\Bagel_House.Resources.resources
+K:\Documents\CISC181Notes\visual-basic-apps-master\apps\Bagel House\Bagel House\obj\Debug\Bagel House.vbproj.GenerateResource.cache
+K:\Documents\CISC181Notes\visual-basic-apps-master\apps\Bagel House\Bagel House\obj\Debug\Bagel House.vbproj.CoreCompileInputs.cache
+K:\Documents\CISC181Notes\visual-basic-apps-master\apps\Bagel House\Bagel House\obj\Debug\Bagel House.exe
+K:\Documents\CISC181Notes\visual-basic-apps-master\apps\Bagel House\Bagel House\obj\Debug\Bagel House.xml
+K:\Documents\CISC181Notes\visual-basic-apps-master\apps\Bagel House\Bagel House\obj\Debug\Bagel House.pdb

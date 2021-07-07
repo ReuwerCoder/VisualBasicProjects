@@ -1,0 +1,12 @@
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\Mass and Weight\bin\Debug\Mass and Weight.exe.config
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\Mass and Weight\bin\Debug\Mass and Weight.exe
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\Mass and Weight\bin\Debug\Mass and Weight.pdb
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\Mass and Weight\bin\Debug\Mass and Weight.xml
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\Mass and Weight\obj\Debug\Mass and Weight.vbprojAssemblyReference.cache
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\Mass and Weight\obj\Debug\Mass_and_Weight.Form1.resources
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\Mass and Weight\obj\Debug\Mass_and_Weight.Resources.resources
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\Mass and Weight\obj\Debug\Mass and Weight.vbproj.GenerateResource.cache
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\Mass and Weight\obj\Debug\Mass and Weight.vbproj.CoreCompileInputs.cache
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\Mass and Weight\obj\Debug\Mass and Weight.exe
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\Mass and Weight\obj\Debug\Mass and Weight.xml
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\Mass and Weight\obj\Debug\Mass and Weight.pdb

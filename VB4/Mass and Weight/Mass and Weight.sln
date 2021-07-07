@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Mass and Weight", "Mass and Weight\Mass and Weight.vbproj", "{C81F0F8B-E1F7-4972-A462-2608C41877C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C81F0F8B-E1F7-4972-A462-2608C41877C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C81F0F8B-E1F7-4972-A462-2608C41877C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C81F0F8B-E1F7-4972-A462-2608C41877C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C81F0F8B-E1F7-4972-A462-2608C41877C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5EDA583-325E-4A0B-9A1E-DA3F22583698}
+	EndGlobalSection
+EndGlobal
